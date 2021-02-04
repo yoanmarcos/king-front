@@ -17,6 +17,7 @@ const Navigation = () => {
     { label: 'Carte', link: '/Carte' },
     { label: 'Ressource', link: '/Ressource' },
     { label: 'Population', link: '/Population' },
+    { label: 'Arbre', link: '/Arbre' },
   ]);
 
   const toggle = () => setIsOpen(!isOpen);
