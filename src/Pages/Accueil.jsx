@@ -1,7 +1,5 @@
-import PaysTab from '../Components/accueil/PaysTab';
-
 const Accueil = () => {
-  return <PaysTab />;
+  return <h1>y a R</h1>;
 };
 
 export default Accueil;
