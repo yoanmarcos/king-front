@@ -151,7 +151,7 @@ const FamilyTree = () => {
         colorSideBar="#fff"
         imageFake="https://imgur.com/PE0P672.png"
         disableSideBar
-        // disableNavigation
+        disableNavigation
       />
     </div>
   );
