@@ -1,4 +1,4 @@
-import PopulationTab from '../Components/accueil/PopulationTab';
+import PopulationTab from '../Components/PopulationTab';
 
 const Population = () => {
   return (

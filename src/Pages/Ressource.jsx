@@ -1,4 +1,4 @@
-import PaysTab from '../Components/accueil/PaysTab';
+import PaysTab from '../Components/PaysTab';
 
 const Ressource = () => {
   return (

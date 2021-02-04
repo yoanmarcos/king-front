@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { useEffect, useState } from 'react';
 import { Table } from 'reactstrap';
-import { URL_API } from '../../env';
+import { URL_API } from '../env';
 
 const PopulationTab = () => {
   const [data, setData] = useState([]);

@@ -65,7 +65,7 @@ const data = [
     id: 7,
     left_child_id: 14,
     right_child_id: 15,
-    username: 'COMPTE MATERIAL',
+    username: 'COMPTE COGNITO',
     image: pop2,
   },
   {
